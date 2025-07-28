@@ -1,0 +1,9 @@
+feature,importance
+type_PAYMENT,0.40614903
+type_CASH_IN,0.26954272
+type_TRANSFER,0.10954356
+type_CASH_OUT,0.08817334
+type_DEBIT,0.07353899
+amount,0.05305232
+step,0.0
+isFlaggedFraud,0.0
